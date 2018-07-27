@@ -1,0 +1,15 @@
+Assistant.Macros.ForAction|2
+Assistant.Macros.IfAction|50|1|100|Lingote
+Assistant.Macros.HotKeyAction|1020|
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.DoubleClickTypeAction|5091|True
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.AbsoluteTargetAction|0|0|1833992463|53|75|0|7154
+Assistant.Macros.PauseAction|00:00:02
+Assistant.Macros.GumpResponseAction|99|0|0
+Assistant.Macros.PauseAction|00:07:00
+Assistant.Macros.SpeechAction|0|548|3|PTB|0|vender
+Assistant.Macros.ElseAction
+Assistant.Macros.HotKeyAction|1083|
+Assistant.Macros.EndIfAction
+Assistant.Macros.EndForAction

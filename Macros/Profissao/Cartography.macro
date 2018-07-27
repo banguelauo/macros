@@ -1,0 +1,13 @@
+!Loop
+Assistant.Macros.IfAction|50|1|1|pergaminho
+Assistant.Macros.UseSkillAction|12
+Assistant.Macros.WaitForMenuAction|63|5
+Assistant.Macros.MenuResponseAction|3|6514|0
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.GumpResponseAction|2|0|0
+Assistant.Macros.PauseAction|00:02:00
+Assistant.Macros.HotKeyAction|0|Agente Organizador-10
+Assistant.Macros.PauseAction|00:00:05
+Assistant.Macros.ElseAction
+Assistant.Macros.HotKeyAction|1083|
+Assistant.Macros.EndIfAction

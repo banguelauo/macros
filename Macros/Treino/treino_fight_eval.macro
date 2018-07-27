@@ -1,0 +1,20 @@
+!Loop
+Assistant.Macros.SpeechAction|0|52|3|PTB|0|todos mate
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.HotKeyAction|1059|
+Assistant.Macros.ForAction|6
+Assistant.Macros.HotKeyAction|1044076|
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.AbsoluteTargetAction|0|0|85649394|1393|1356|27|204
+Assistant.Macros.PauseAction|00:00:10
+Assistant.Macros.EndForAction
+Assistant.Macros.SpeechAction|0|52|3|PTB|0|todos pare
+Assistant.Macros.ForAction|7
+Assistant.Macros.HotKeyAction|1044076|
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.AbsoluteTargetAction|0|0|85649394|1393|1356|27|204
+Assistant.Macros.PauseAction|00:00:10
+Assistant.Macros.EndForAction
+Assistant.Macros.HotKeyAction|1020|
+Assistant.Macros.PauseAction|00:00:02
+Assistant.Macros.DressAction|TreinoFight

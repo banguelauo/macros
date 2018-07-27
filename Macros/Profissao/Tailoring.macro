@@ -1,0 +1,13 @@
+!Loop
+Assistant.Macros.IfAction|50|1|100|Tecido
+Assistant.Macros.DoubleClickTypeAction|3997|True
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.GumpResponseAction|99|0|0
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.PauseAction|00:00:02
+Assistant.Macros.AbsoluteTargetAction|0|0|1827374729|54|112|0|5989
+Assistant.Macros.PauseAction|00:05:30
+Assistant.Macros.SpeechAction|0|548|3|PTB|0|vender
+Assistant.Macros.ElseAction
+Assistant.Macros.HotKeyAction|1083|
+Assistant.Macros.EndIfAction

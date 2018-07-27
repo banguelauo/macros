@@ -1,0 +1,34 @@
+!Loop
+Assistant.Macros.ForAction|10
+Assistant.Macros.IfAction|5|1|2850
+Assistant.Macros.HotKeyAction|1083|
+Assistant.Macros.EndIfAction
+Assistant.Macros.HotKeyAction|1020|
+Assistant.Macros.IfAction|4|0|você para de minerar
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.SpeechAction|0|53|3|PTB|0|.g
+Assistant.Macros.EndIfAction
+Assistant.Macros.IfAction|4|0|não parece ter mais minério neste local.
+Assistant.Macros.WalkAction|6
+Assistant.Macros.PauseAction|00:00:02
+Assistant.Macros.EndIfAction
+Assistant.Macros.IfAction|4|0|não tem mais areia neste local.
+Assistant.Macros.WalkAction|6
+Assistant.Macros.PauseAction|00:00:02
+Assistant.Macros.EndIfAction
+Assistant.Macros.IfAction|4|0|não consegui achar areia
+Assistant.Macros.WalkAction|6
+Assistant.Macros.PauseAction|00:00:03
+Assistant.Macros.HotKeyAction|1020|
+Assistant.Macros.EndIfAction
+Assistant.Macros.IfAction|4|0|não tem mais barro argila neste local.
+Assistant.Macros.WalkAction|6
+Assistant.Macros.PauseAction|00:00:02
+Assistant.Macros.EndIfAction
+Assistant.Macros.DoubleClickTypeAction|3717|True
+Assistant.Macros.WaitForTargetAction|10
+Assistant.Macros.HotKeyAction|1059|
+Assistant.Macros.PauseAction|00:00:05
+Assistant.Macros.EndForAction
+Assistant.Macros.SpeechAction|0|52|3|PTB|0|todos sigame
+Assistant.Macros.SpeechAction|0|52|3|PTB|0|todos vigie

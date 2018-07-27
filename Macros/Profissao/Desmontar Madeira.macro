@@ -1,0 +1,11 @@
+!Loop
+Assistant.Macros.IfAction|50|1|1|Bastao
+Assistant.Macros.DoubleClickTypeAction|4149|True
+Assistant.Macros.WaitForGumpAction|0|False|300
+Assistant.Macros.GumpResponseAction|12|0|0
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.TargetTypeAction|False|5113
+Assistant.Macros.PauseAction|00:00:06
+Assistant.Macros.ElseAction
+Assistant.Macros.HotKeyAction|1083|
+Assistant.Macros.EndIfAction

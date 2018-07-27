@@ -1,0 +1,15 @@
+!Loop
+Assistant.Macros.ForAction|15
+Assistant.Macros.IfAction|1|1|25
+Assistant.Macros.ExtCastSpellAction|44|4294967295
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.HotKeyAction|1059|
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.EndIfAction
+Assistant.Macros.EndForAction
+Assistant.Macros.ForAction|10
+Assistant.Macros.IfAction|1|0|79
+Assistant.Macros.UseSkillAction|46
+Assistant.Macros.PauseAction|00:00:10
+Assistant.Macros.EndIfAction
+Assistant.Macros.EndForAction

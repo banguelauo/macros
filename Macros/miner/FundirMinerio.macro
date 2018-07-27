@@ -1,0 +1,7 @@
+!Loop
+Assistant.Macros.IfAction|50|1|1|Minerio
+Assistant.Macros.DoubleClickTypeAction|6585|True
+Assistant.Macros.PauseAction|00:00:01.5000000
+Assistant.Macros.ElseAction
+Assistant.Macros.HotKeyAction|1083|
+Assistant.Macros.EndIfAction

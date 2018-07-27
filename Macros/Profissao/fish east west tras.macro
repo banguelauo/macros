@@ -1,0 +1,19 @@
+!Loop
+Assistant.Macros.SpeechAction|0|52|3|PTB|0|devagar
+Assistant.Macros.ForAction|100
+Assistant.Macros.WaitForStatAction|0|1|1|3600
+Assistant.Macros.HotKeyAction|1020|
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.DoubleClickTypeAction|3519|True
+Assistant.Macros.WaitForTargetAction|10
+Assistant.Macros.TargetRelLocAction|-1|3
+Assistant.Macros.PauseAction|00:00:20
+Assistant.Macros.HotKeyAction|0|Agente Organizador-2
+Assistant.Macros.HotKeyAction|0|Agente Organizador-4
+Assistant.Macros.HotKeyAction|0|Agente Organizador-7
+Assistant.Macros.WaitForStatAction|0|1|1|3600
+Assistant.Macros.SpeechAction|0|52|3|PTB|0|tras
+Assistant.Macros.PauseAction|00:00:06
+Assistant.Macros.SpeechAction|0|52|3|PTB|0|pare
+Assistant.Macros.PauseAction|00:00:02
+Assistant.Macros.EndForAction

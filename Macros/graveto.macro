@@ -1,0 +1,6 @@
+Assistant.Macros.ForAction|26
+Assistant.Macros.DoubleClickTypeAction|3921|True
+Assistant.Macros.WaitForTargetAction|5
+Assistant.Macros.AbsoluteTargetAction|1|0|0|1400|1371|0|3283
+Assistant.Macros.PauseAction|00:00:00.1000000
+Assistant.Macros.EndForAction

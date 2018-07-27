@@ -1,0 +1,7 @@
+!Loop
+Assistant.Macros.IfAction|4|0|você estragou o peixe.
+Assistant.Macros.DoubleClickAction|1831118392|3542
+Assistant.Macros.ElseAction
+Assistant.Macros.PauseAction|00:00:30
+Assistant.Macros.HotKeyAction|0|Agente Organizador-5
+Assistant.Macros.EndIfAction

@@ -1,0 +1,11 @@
+!Loop
+Assistant.Macros.DoubleClickTypeAction|3843|True
+Assistant.Macros.PauseAction|00:00:02
+Assistant.Macros.IfAction|4|0|voce foi envenenado!
+Assistant.Macros.ForAction|5
+Assistant.Macros.DoubleClickTypeAction|3617|True
+Assistant.Macros.WaitForTargetAction|10
+Assistant.Macros.HotKeyAction|1059|
+Assistant.Macros.PauseAction|00:00:15
+Assistant.Macros.EndForAction
+Assistant.Macros.EndIfAction

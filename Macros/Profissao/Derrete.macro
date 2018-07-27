@@ -1,0 +1,9 @@
+!Loop
+Assistant.Macros.IfAction|50|1|1|Derrete
+Assistant.Macros.DoubleClickTypeAction|4027|True
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.TargetTypeAction|False|3921
+Assistant.Macros.PauseAction|00:00:06
+Assistant.Macros.ElseAction
+Assistant.Macros.HotKeyAction|1083|
+Assistant.Macros.EndIfAction

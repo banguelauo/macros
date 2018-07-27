@@ -1,0 +1,5 @@
+!Loop
+Assistant.Macros.UseSkillAction|38
+Assistant.Macros.WaitForMenuAction|0|300
+Assistant.Macros.MenuResponseAction|3|8454|0
+Assistant.Macros.PauseAction|00:00:10

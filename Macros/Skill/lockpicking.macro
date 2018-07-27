@@ -1,0 +1,26 @@
+!Loop
+Assistant.Macros.IfAction|50|1|1|tinker
+Assistant.Macros.IfAction|0|0|30
+Assistant.Macros.PauseAction|00:02:00
+Assistant.Macros.EndIfAction
+Assistant.Macros.IfAction|4|0|*abriu!*
+Assistant.Macros.DoubleClickAction|1829269331|4110
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.AbsoluteTargetAction|0|0|1829269330|53|110|0|2473
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.EndIfAction
+Assistant.Macros.IfAction|4|0|*trancado*
+Assistant.Macros.DoubleClickTypeAction|5371|True
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.AbsoluteTargetAction|0|0|1829269330|53|110|0|2473
+Assistant.Macros.PauseAction|00:00:03
+Assistant.Macros.EndIfAction
+Assistant.Macros.IfAction|4|0|voce nao conseguiu arrombar a fechadura.
+Assistant.Macros.DoubleClickTypeAction|5371|True
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.AbsoluteTargetAction|0|0|1829269330|53|110|0|2473
+Assistant.Macros.PauseAction|00:00:03
+Assistant.Macros.EndIfAction
+Assistant.Macros.ElseAction
+Assistant.Macros.HotKeyAction|1083|
+Assistant.Macros.EndIfAction
